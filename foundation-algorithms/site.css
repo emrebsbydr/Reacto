@@ -1,0 +1,32 @@
+h1 {
+    color: tomato;
+}
+
+p {
+    color: rgb(179, 12, 12);
+}
+
+li {
+    font-size: 20px;
+}
+
+.emre{
+    font-size: 26px;
+    font-weight: bold;
+}
+.cocuk {
+    font-size: 15px;
+    
+}
+
+#emre-2 {
+    color: white;
+}
+[class] {
+    font-style: italic;
+}
+
+/* [id] {
+    font-size: 25px;
+} */
+

@@ -1,0 +1,72 @@
+1- OnlyOdds
+2- crazyCaps
+3- bacteriaTime
+4- Exponentiate
+5- mySlice
+6- liftoff interview question
+7- countdownArray
+8- highAndLow
+9- litres
+10- sequenceSum
+11- myIndexOf
+12- crazyCaps
+13- slice() methodu
+14- find() methodu
+15- copyWithin() Array-method
+16- keys() methodu
+17- toString() method
+18- join() method
+19- split() method
+20- sort() method
+21- minMax
+22- new Array() method
+23- for loop
+24- for in loop
+25- for of loop
+26- if-else statement
+27- main edge interview question
+28- isSquare
+29- getSum
+30- isTriangle
+31- push() method
+32- nested function
+33- typeof() method
+34- entries() method
+35- callsWithHello callback-functionn
+36-  saysToAll callback-function
+37- likes  if-else statement
+38- oddOrEven
+39- functionLogger
+40- addWorld  function-parameter
+41- greetme  callback-function
+42- greeter  closure-nested-function
+43- Array.entries()
+44- Array.every() method
+45- Array.fill() method
+46- Array.filter() method
+47- Array.filter() even number bulma
+48- Array.find(), Array.filter(), Array.findIndex()
+49- Array..foreach()
+50- reverseLetter
+51- reverse() method
+52- rray.indexOf() method
+53- lowercasetotal
+54- findUpperCase
+55- Array.foreach(), Array.foreach()  method
+56- while loop, for loop
+57- Array.from(str) method
+58- Array.includes(taget, indexNum)
+59- Array.reduce( function, initalNum )
+60- Array.reduceRight() method
+61- Array.shift()
+62- Array.slice()
+63- Array.some()
+64- Array.sort(), Array.reverse()
+65- Array.splice(startindex,deleteindex,addelements)
+66- recursive function  interview question
+67- texarray (cols,rows)
+68- for in loop, split(), reverse() for array
+69- nested for loop
+70- for in loop for object{}
+71- XO function to check number of character (CODEWARS)
+112-Custom Sort()
